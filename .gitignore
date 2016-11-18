@@ -1,0 +1,15 @@
+.tmp
+logs
+build
+*.iml
+**/.DS_Store
+.idea*
+out/*
+target*
+classes/*
+src/main/webapp/WEB-INF/classes
+src/main/webapp/WEB-INF/lib
+log
+.project
+.settings/*
+.classpath
