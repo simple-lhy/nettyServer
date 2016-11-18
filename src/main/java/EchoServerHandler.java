@@ -29,6 +29,7 @@ public class EchoServerHandler extends ChannelInboundHandlerAdapter {
         //        System.out.println(future.toString());
         ctx.writeAndFlush(Unpooled.EMPTY_BUFFER)//flush掉所有写回的数据
             .addListener(ChannelFutureListener.CLOSE); //当flush完成后关闭channel
+        System.out.println("flush done");
     }
 
     public void exceptionCaught(ChannelHandlerContext ctx, Throwable cause) {

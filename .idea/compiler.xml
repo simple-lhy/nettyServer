@@ -22,13 +22,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="nettyServer" />
+        <module name="mavenNetty_1" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="httpclientpool" target="1.5" />
-      <module name="light-netty-client" target="1.6" />
-      <module name="nettyServer" target="1.5" />
+      <module name="mavenNetty_1" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

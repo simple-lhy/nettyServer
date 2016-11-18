@@ -92,7 +92,7 @@ public class TestMySocketPool {
                     if (socketAdapter != null) {
                         try {
                             socketAdapter.close();
-                            //                            System.out.println(socketAdapter.isFree());
+                                                        System.out.println("has closed");
                         } catch (IOException e) {
                             e.printStackTrace();
                         }
