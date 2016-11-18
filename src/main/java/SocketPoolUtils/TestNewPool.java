@@ -13,7 +13,6 @@ import java.io.InputStreamReader;
 import java.io.PrintWriter;
 
 /**
- *  * @author hzlvhaiyan@corp.netease.com on 16/11/8.  
  */
 public class TestNewPool {
     public static void main(String args[]) {

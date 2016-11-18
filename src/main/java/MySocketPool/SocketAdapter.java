@@ -11,7 +11,6 @@ import java.io.IOException;
 import java.net.Socket;
 
 /**
- *  * @author hzlvhaiyan@corp.netease.com on 16/11/9.  
  */
 public class SocketAdapter extends Socket {
     /**

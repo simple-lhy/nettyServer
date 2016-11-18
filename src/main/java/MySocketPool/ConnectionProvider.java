@@ -8,7 +8,6 @@
 package MySocketPool;
 
 /**
- *  * @author hzlvhaiyan@corp.netease.com on 16/11/9.  
  */
 public interface ConnectionProvider {
     /**

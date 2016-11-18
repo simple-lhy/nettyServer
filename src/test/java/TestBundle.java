@@ -7,7 +7,6 @@
  */
 
 /**
- *  * @author hzlvhaiyan@corp.netease.com on 16/11/8.  
  */
 public class TestBundle {
     public static void main(String[] args) {

@@ -13,7 +13,6 @@
 //import java.util.concurrent.ConcurrentHashMap;
 //
 ///**
-// *  * @author hzlvhaiyan@corp.netease.com on 16/11/8.  
 // */
 //public class SocketPool {
 //

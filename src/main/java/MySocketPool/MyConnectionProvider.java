@@ -12,7 +12,6 @@ import java.io.IOException;
 /**
  * 连接池的简单实现
  * 
- * @author hzlvhaiyan@corp.netease.com on 16/11/10.  
  */
 public class MyConnectionProvider implements ConnectionProvider {
 

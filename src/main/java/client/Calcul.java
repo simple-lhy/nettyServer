@@ -11,7 +11,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- *  * @author hzlvhaiyan@corp.netease.com on 16/10/31.  
  */
 public class Calcul {
     public static void main(String[] args) {
